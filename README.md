@@ -12,4 +12,4 @@ Este projeto aplica os princípios de **Arquitetura Limpa**, separando o sistema
 
 Com essa separação, o código se torna mais organizado, reutilizável e fácil de manter, reduzindo o acoplamento e melhorando a testabilidade.
 
-📁 Estrutura do código: [./frete](./frete)
+📁 Estrutura do código: [Arquitetura Limpa - Refatoração de Código (Separação de Domain, Adapters e Repository)](https://github.com/GuilhermeCostaLima/DAS-II/tree/main/ArquiteturaLimpa)
